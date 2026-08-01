@@ -12,6 +12,7 @@ DSA question solved
 | [0027-remove-element](https://github.com/Sourav-og/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sourav-og/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourav-og/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/Sourav-og/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ DSA question solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-og/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav-og/DSA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Sourav-og/DSA/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +51,5 @@ DSA question solved
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sourav-og/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Sourav-og/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
