@@ -13,6 +13,7 @@ DSA question solved
 | [0066-plus-one](https://github.com/Sourav-og/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourav-og/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Sourav-og/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sourav-og/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ DSA question solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-og/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav-og/DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Sourav-og/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sourav-og/DSA/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
