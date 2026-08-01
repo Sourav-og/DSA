@@ -6,6 +6,7 @@ DSA question solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sourav-og/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sourav-og/DSA/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -15,4 +16,8 @@ DSA question solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sourav-og/DSA/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sourav-og/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
