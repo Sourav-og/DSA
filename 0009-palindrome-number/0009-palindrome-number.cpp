@@ -1,23 +1,18 @@
 class Solution {
 public:
-    bool isPalindrome(int num) {
-        int rev_num = 0;
-        int length;
-        int og_num = num;
-
-        while (num > 0) {
-            length = num % 10;
-            num = num / 10;
-            if (rev_num > (INT_MAX - length) / 10) {
-                return false;
-            }
-            rev_num = (rev_num * 10) + length;
-        }
-
-        if (og_num == rev_num) {
-            return true;
-        } else {
+    bool isPalindrome(int x) {
+        if (x < 0)
             return false;
+
+        int original = x;
+        long long rev = 0;
+
+        while (x > 0) {
+            int digit = x % 10;
+            rev = rev * 10 + digit;
+            x /= 10;
         }
+
+        return original == rev;
     }
 };
