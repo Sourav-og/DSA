@@ -50,6 +50,7 @@ DSA question solved
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sourav-og/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Sourav-og/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sourav-og/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
