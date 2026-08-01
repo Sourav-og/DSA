@@ -10,6 +10,7 @@ DSA question solved
 | [0014-longest-common-prefix](https://github.com/Sourav-og/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-og/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sourav-og/DSA/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Sourav-og/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourav-og/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
@@ -44,4 +45,8 @@ DSA question solved
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourav-og/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Sourav-og/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
